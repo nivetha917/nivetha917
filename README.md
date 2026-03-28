@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nivetha 👋
 
-<!--
-**nivetha917/nivetha917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Data Engineer with 6+ years of experience in building scalable data platforms and ML systems.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Snowflake, SQL, Python
+- Airflow, Kafka
+- AWS / GCP
+- Machine Learning, MLOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 AI Job Finder
+Find AI jobs with visa sponsorship using Python
+
+### 🔹 Enterprise RAG System
+Built document search system using embeddings + vector database
+
+### 🔹 (Upcoming) Failure Prediction System
+ML-based system to predict machine failures in manufacturing
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/nivetha-ts-816ab085/
+- Email: nivethasanthanam394@gmail.com
